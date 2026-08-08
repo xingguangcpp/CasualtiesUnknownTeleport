@@ -13,7 +13,7 @@
 
 编译方法：点击`make.cmd`文件
 
-参考视频[点我]()
+参考视频[点我](https://www.bilibili.com/video/BV1EquV6ZE77)
 
 A mod for 《Casualties：Unknown》game, can teleport better
 This mod requires a multiplayer mod. The mod host is a single-end setup, which means it only needs to be installed on the server side, not the client side. It has a built-in tp command that relies on the multiplayer mod's chat feature to execute commands.
@@ -28,4 +28,4 @@ Currently, it only supports Chinese.
 
 How to compile: click the `make.cmd` file
 
-Reference video [click me]()
+Reference video [click me](https://www.bilibili.com/video/BV1EquV6ZE77)
