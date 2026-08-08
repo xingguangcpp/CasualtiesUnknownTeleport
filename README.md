@@ -11,6 +11,8 @@
 
 目前仅支持中文
 
+编译方法：点击`make.cmd`文件
+
 参考视频[点我]()
 
 A mod for 《Casualties：Unknown》game, can teleport better
@@ -23,5 +25,7 @@ This mod requires a multiplayer mod. The mod host is a single-end setup, which m
 `\tp [string-name]` - teleport to an anchor point
 
 Currently, it only supports Chinese.
+
+How to compile: click the `make.cmd` file
 
 Reference video [click me]()
